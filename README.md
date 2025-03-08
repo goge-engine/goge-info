@@ -1,5 +1,5 @@
 # Goge Info
-A simple Python script to turn your game infomation from Json to Go file.  
+It is a simple Python script to turn your game infomation from Json to Go file.  
 
 documents:  
 - [English](./doc/en/README.md)  
